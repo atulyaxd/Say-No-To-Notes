@@ -13,5 +13,6 @@ This is a simple piece of code that takes audio notes.
 ## Additionals
 * Problems in installing **pyaudio**, you can download the .whl file [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) and install it.
 * Ensure that you have a stable network connection so that the recognition and conversion is uninterupted.
+* if you don't want the notes in the csv then simply change the file extension in the [Selfnote.py](https://github.com/itsatulya/Say-No-To-Notes/blob/6cc9d6739c40d96f14ba0e604c2202431db1132f/Selfnotes.py) and the same goes for file name.
 
 **Thank You**
