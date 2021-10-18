@@ -5,6 +5,7 @@ This is a simple piece of code that takes audio notes.
 
 ## Working
 * clone my repo. 
+* change the directory to the root directory
 * install the requirements from [requirements.txt](https://github.com/itsatulya/Say-No-To-Notes/blob/6cc9d6739c40d96f14ba0e604c2202431db1132f/requirements.txt) if needed. `pip install -r requirements.txt`
 * run the [Selfnote.py](https://github.com/itsatulya/Say-No-To-Notes/blob/6cc9d6739c40d96f14ba0e604c2202431db1132f/Selfnotes.py).
 * whenever you take a break while speaking the code will register it as a line with its time stamp.
