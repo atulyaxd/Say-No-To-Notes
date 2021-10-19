@@ -18,7 +18,7 @@ while run:
 
             text = (r.recognize_google(lecture))
 
-            time_stamp = time.strftime("%H:%M:%S")
+            time_stamp = time.strftime("%D , %H:%M:%S")
 
             print(time_stamp + " : " + text)
 
