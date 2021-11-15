@@ -17,4 +17,4 @@ This is a simple piece of code that takes audio notes.
 * if you don't want the notes in the csv then simply change the file extension in the [Selfnote.py](https://github.com/itsatulya/Say-No-To-Notes/blob/6cc9d6739c40d96f14ba0e604c2202431db1132f/Selfnotes.py) and the same goes for file name.
 * if you want to remove time stamps then simply comment **line 21** in [Selfnote.py](https://github.com/itsatulya/Say-No-To-Notes/blob/6cc9d6739c40d96f14ba0e604c2202431db1132f/Selfnotes.py).
 
-**Thank You**
+***feel free to use my code but don't forget to mention me.***
